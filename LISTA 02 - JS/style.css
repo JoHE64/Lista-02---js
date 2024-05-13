@@ -1,0 +1,26 @@
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.titulo{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-size: 70px;
+}
+.tituloMenor{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-size: 50px;
+}
+section{
+    background-color: green;
+}
+.botao{
+    width: 190px;
+    height: 90px;
+    background: green;
+    color: aliceblue;
+    font-size: 20px;
+    margin: 20px;
+}
